@@ -161,7 +161,7 @@
                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                 <h4 class="text-uppercase m-0">Address</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+                <div class="small text-black-50">Pondok Pinang, Kebayoran Lama, Jakarta Selatan, Indonesia</div>
               </div>
             </div>
           </div>
@@ -173,7 +173,7 @@
                 <h4 class="text-uppercase m-0">Email</h4>
                 <hr class="my-4">
                 <div class="small text-black-50">
-                  <a href="#">hello@yourdomain.com</a>
+                  <a href="#">salwaahmadz888@gmail.com</a>
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@
                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
                 <h4 class="text-uppercase m-0">Phone</h4>
                 <hr class="my-4">
-                <div class="small text-black-50">+1 (555) 902-8832</div>
+                <div class="small text-black-50">081383368254</div>
               </div>
             </div>
           </div>
@@ -209,7 +209,7 @@
     <!-- Footer -->
     <footer class="bg-black small text-center text-white-50">
       <div class="container">
-        Copyright &copy; Your Website 2018
+        Copyright &copy; Only4FunLife 2018
       </div>
     </footer>
 
