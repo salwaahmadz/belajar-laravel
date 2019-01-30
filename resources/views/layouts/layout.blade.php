@@ -62,12 +62,12 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2 class="text-white mb-4">Built with Bootstrap 4</h2>
-            <p class="text-white-50">Grayscale is a free Bootstrap theme created by Start Bootstrap. It can be yours right now, simply download the template on
-              <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
+            <h2 class="text-white mb-4">Edited with Photoshop</h2>
+            <h4 class="text-white-50">Glow & Neon Effect | Manipulation</h4>
+            <p class="text-white-50">Create a creativity that can inspire people around the world.</p>
           </div>
         </div>
-        <img src="asset/img/ipad.png" class="img-fluid" alt="">
+        <img src="asset/img/Connor.png" class="img-fluid" alt="">
       </div>
     </section>
 
@@ -190,7 +190,7 @@
     <footer class="bg-black small text-center text-white-50">
       <div class="container">
         Copyright &copy; Only4FunLife 2018<br>
-        Template by Start Bootstrap
+        Template by <a href="http://startbootstrap.com/template-overviews/grayscale/">Start Bootstrap</a>
       </div>
     </footer>
 
